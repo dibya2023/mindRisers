@@ -1,0 +1,48 @@
+tags/elements
+eg: html, body, p, h
+
+
+lang in html is an eg: of html attribute
+they further describe the elements
+
+alt+tab = to switch form one tab to another
+ctlB
+
+href= direct the link
+
+
+today's assignment : relative and absolute path
+
+
+5th dec 
+abslotue path : An absolute file path is the full URL to a file:
+     eg: <img src="https://www.w3schools.com/images/picture.jpg" alt="Mountain" style="width:300px">
+
+relative path : A relative file path points to a file relative to the current page.
+     eg: <img src="images/picture.jpg" alt="Mountain" style="width:300px">
+
+
+&nbsp = html code to create space
+
+h1 in one page only
+ctl/=comment
+f2= rename
+
+inline elements=anchor tag
+block elements=h1(those that uses more space than needed)
+
+6th dec assignment-table(name=first,last   email) rowspan and cobspan
+
+
+inline
+enternal
+external
+
+<selector>{
+     property:value
+     }
+
+margin and padding
+
+mostly class are used instead of id
+
